@@ -1,7 +1,7 @@
 {
   "name": "expense-app",
   "version": "0.1.0",
-  "homepage": "https://sameem2024.github.io/react_expense-tracker-app",
+  "homepage": "https://sameem2024.github.io/expense-trackerapp",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",
